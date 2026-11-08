@@ -1,0 +1,11 @@
+{
+  "name": "@studygraph/cli",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "main": "src/login.ts",
+  "dependencies": {
+    "@studygraph/core": "*",
+    "@studygraph/db": "*"
+  }
+}
